@@ -1,0 +1,41 @@
+.season{
+	width: 100%;
+	height: 100vh;
+	box-sizing: border-box;
+	display: flex;
+	flex-wrap: wrap;
+    flex-direction: row;
+    float: left;
+    background: #000000;
+
+}
+
+.season__info{
+	height: 100%;
+	width: 50%;
+	display: flex;
+	justify-content: center;
+}
+
+.season__collect{
+	height: 100%;
+	width: 50%;
+	background: url("../images/Collection.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+	align-items: center;
+    justify-content: flex-end;
+    flex-direction: column;
+}
+
+.title{
+	color: white;
+	border-bottom: 2px solid white;
+	width: 5.5em;
+    text-align: center;
+    font-size: 2em;
+}
