@@ -82,6 +82,7 @@
 	font-size: 1.5em;
 	border: 3px solid white;
 	margin-bottom: 10%;
+	padding: 10px;
 }
 
 .btn_catalog:hover{
@@ -118,5 +119,12 @@
 	.title{;
 		width: 50%;
 		font-size: 1.5em;
+	}
+
+	.btn_catalog{
+		font-size: 1em;
+		border: 3px solid white;
+		margin-bottom: 10%;
+		padding: 10px;
 	}
 }
