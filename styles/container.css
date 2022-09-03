@@ -24,8 +24,8 @@
 	display: flex;
 	flex-wrap: wrap;
 	align-items: center;
-	column-gap: 20px;
-	grid-row-gap: 20px;
+	column-gap: 10px;
+	grid-row-gap: 10px;
 }
 
 .category__btn, .block__send{

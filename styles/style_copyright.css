@@ -1,0 +1,10 @@
+.copyright{
+	width: 100%;
+	height: 5vh;
+	background: #0F0F0F;
+	color: white;
+
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
